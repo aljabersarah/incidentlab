@@ -1,0 +1,16 @@
+{
+  "name": "IncidentLab",
+  "short_name": "IncidentLab",
+  "description": "Cybersecurity insights podcast and knowledge library. Bridging the gap between offense and defense.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F120C",
+  "theme_color": "#0F120C",
+  "icons": [
+    { "src": "/favicon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/maskable-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,1 @@
+(function(){document.addEventListener("DOMContentLoaded",function(){var e=document.getElementById("hamburger"),t=document.getElementById("primary-nav");e&&t&&e.addEventListener("click",function(){var n=t.classList.toggle("open");e.setAttribute("aria-expanded",n?"true":"false")})})})()

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+  <g transform="translate(20, 20)">
+    <circle cx="80" cy="80" r="70" fill="none" stroke="#FAFAF7" stroke-width="2"/>
+    <circle cx="80" cy="80" r="46" fill="none" stroke="#FAFAF7" stroke-width="1.5"/>
+    <circle cx="80" cy="80" r="22" fill="none" stroke="#FAFAF7" stroke-width="1.5"/>
+    <line x1="10" y1="80" x2="150" y2="80" stroke="#FAFAF7" stroke-width="1" opacity="0.5"/>
+    <line x1="80" y1="10" x2="80" y2="150" stroke="#FAFAF7" stroke-width="1" opacity="0.5"/>
+    <path d="M 80 80 L 80 10 A 70 70 0 0 1 130 30 Z" fill="#C8E468" opacity="0.55"/>
+    <line x1="80" y1="80" x2="130" y2="30" stroke="#C8E468" stroke-width="2"/>
+    <circle cx="110" cy="50" r="6" fill="#C8E468" stroke="#FAFAF7" stroke-width="2"/>
+    <circle cx="80" cy="80" r="3.5" fill="#C8E468"/>
+  </g>
+  <text x="200" y="95" font-family="'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="700" fill="#FAFAF7" letter-spacing="-1">IncidentLab</text>
+  <line x1="200" y1="115" x2="700" y2="115" stroke="#92A459" stroke-width="0.8"/>
+  <text x="200" y="138" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#92A459" letter-spacing="6">CYBERSECURITY · INSIGHTS</text>
+</svg>

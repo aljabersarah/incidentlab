@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Concentric rings -->
+  <circle cx="120" cy="120" r="105" fill="none" stroke="#0F120C" stroke-width="2.5"/>
+  <circle cx="120" cy="120" r="70" fill="none" stroke="#0F120C" stroke-width="2"/>
+  <circle cx="120" cy="120" r="32" fill="none" stroke="#0F120C" stroke-width="2"/>
+
+  <!-- Quadrant lines -->
+  <line x1="15" y1="120" x2="225" y2="120" stroke="#0F120C" stroke-width="1.5" opacity="0.5"/>
+  <line x1="120" y1="15" x2="120" y2="225" stroke="#0F120C" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Lime sweep -->
+  <path d="M 120 120 L 120 15 A 105 105 0 0 1 195 45 Z" fill="#C8E468" opacity="0.65"/>
+  <line x1="120" y1="120" x2="195" y2="45" stroke="#0F120C" stroke-width="2.5"/>
+
+  <!-- Detected incident dot -->
+  <circle cx="165" cy="75" r="9" fill="#C8E468" stroke="#0F120C" stroke-width="2.5"/>
+
+  <!-- Center -->
+  <circle cx="120" cy="120" r="5" fill="#0F120C"/>
+</svg>
