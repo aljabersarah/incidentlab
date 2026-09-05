@@ -33,7 +33,7 @@ Write-ups, DFIR notes, SOC playbooks, references, and conversations from the fie
 
 IncidentLab is **a cybersecurity library and a session series**.
 
-The library side is security operations material built for the moment you actually need it — artifacts, references, runbooks, and write-ups that real responders reach for during an incident. The session side is conversations with practitioners walking through real cases in their own corner of the field.
+The library side is security operations material built for the moment you actually need it: artifacts, references, runbooks, and write-ups that real responders reach for during an incident. The session side is conversations with practitioners walking through real cases in their own corner of the field.
 
 A library for practitioners, by practitioners.
 
@@ -61,31 +61,18 @@ Conversations with practitioners, recorded and published on [YouTube](https://ww
 | **Low Priv to Domain Admin** | Mohammad Kantar | Offensive · Active Directory |
 | **Unmasking Cobalt Strike** | Mohammad Al-Zahrani | Offensive · Evasion |
 
-## Brand
-
-| | Token | Hex |
-| :-- | :-- | :-- |
-| ![](https://img.shields.io/badge/-0F120C?style=flat-square) | Onyx Forest | `#0F120C` |
-| ![](https://img.shields.io/badge/-FAFAF7?style=flat-square) | Paper | `#FAFAF7` |
-| ![](https://img.shields.io/badge/-C8E468?style=flat-square) | Cipher Lime | `#C8E468` |
-| ![](https://img.shields.io/badge/-92A459?style=flat-square) | Olive Signal | `#92A459` |
-| ![](https://img.shields.io/badge/-4B5338?style=flat-square) | Moss Shadow | `#4B5338` |
-| ![](https://img.shields.io/badge/-D9DBD6?style=flat-square) | Bone Mist | `#D9DBD6` |
-
-The mark is a radar sweep: concentric rings, quadrant lines, one contact lit up on
-the sweep. Detection, drawn literally.
-
 ## Behind IncidentLab
 
-**Sarah Aljaber** — Founder · Senior Incident Response Consultant · DFIR & Cybersecurity
+**Sarah Aljaber**  
+Founder · Senior Incident Response Consultant · DFIR & Cybersecurity  
 Riyadh, Saudi Arabia
 
 Sarah is a Senior Incident Response Consultant focused on building and strengthening
-Security Operations Centers and enterprise detection capabilities — visibility,
+Security Operations Centers and enterprise detection capabilities: visibility,
 monitoring strategy, detection use case development, log baselining, and proactive
 threat hunting aligned to evolving adversary techniques.
 
-[LinkedIn](https://www.linkedin.com/in/sarah-aljaber-195b3717a) · [X](https://x.com/s4o_o) · [YouTube](https://www.youtube.com/@INCIDENTLAB-dz6dd/videos)
+[LinkedIn](https://www.linkedin.com/in/sarah-aljaber-mba-195b3717a) · [X](https://x.com/s4o_o) · [YouTube](https://www.youtube.com/@INCIDENTLAB-dz6dd/videos)
 
 ---
 
